@@ -1,0 +1,16 @@
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Sensitive configuration
+.env
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
